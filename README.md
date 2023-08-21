@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @souravkv
-- 👀 I’m interested in coding programming and whatever the tech world ahs to offer
+- 👀 I’m interested in coding programming and whatever the tech world has to offer
 - 🌱 I’m currently learning python as my first lanuage
 -    I'm currently pursuing B-tech CSE at lovely proffessional university ,Punjab
 - 📫 reach me on insta @ "zourv_"
